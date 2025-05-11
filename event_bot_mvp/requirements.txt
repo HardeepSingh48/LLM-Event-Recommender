@@ -1,0 +1,5 @@
+apscheduler
+python-telegram-bot
+SQLAlchemy
+langchain_ollama
+langchain
